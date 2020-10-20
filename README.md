@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-# DONT FORGET TO FOLLOW MY GITHUB AND STAR THIS PROJECT!
+# Don't forget to follow my github and star this project!
  
 ## Available Scripts
 
